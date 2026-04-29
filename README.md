@@ -33,8 +33,8 @@ I build full-stack web applications with clean backend architecture, modern fron
 ### 🎨 [BornaArtGallery](https://github.com/MilanBornarov/BornaArtGallery)
 Bilingual online art gallery and studio portfolio with favorites, admin artwork management, Cloudinary image handling, and a secure Spring Boot API.
 
-### 🚗 Vehicle Management System (.NET MVC)
-C# ASP.NET MVC application for managing vehicles, travel orders, and loyalty cards, including filtering, CRUD operations, Razor views, and database integration with Entity Framework.
+### 💸 [Finance Tracker (.NET MVC)](https://github.com/MilanBornarov/Finance-Tracker-App-DotNet)
+Full-stack financial tracking application built with C# and ASP.NET MVC, featuring transaction management, categorization, and structured backend architecture using Entity Framework.
 
 ### 🍔 [Food-Delivery-App-SpringBoot](https://github.com/MilanBornarov/Food-Delivery-App-SpringBoot)
 Full-stack food delivery platform built with Spring Boot and React, featuring REST APIs, user management, menu browsing, and order tracking.
@@ -44,27 +44,6 @@ Python data project using BeautifulSoup, Pandas, Matplotlib, and Seaborn for scr
 
 ### 🎮 [MegaSudoku-18x18-Challenge-Edition](https://github.com/MilanBornarov/MegaSudoku-18x18-Challenge-Edition)
 Advanced Python/Pygame Sudoku game with larger grids, backtracking logic, and multiple challenges.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MilanBornarov&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanBornarov&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MilanBornarov&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
