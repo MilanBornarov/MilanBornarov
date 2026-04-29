@@ -34,8 +34,8 @@
 - 🍔 **[Food Delivery App](https://github.com/MilanBornarov/Food-Delivery-App-SpringBoot)**  
   Spring Boot + React platform with REST APIs and order management
 
-- 📊 **[Book Scraping & Visualization](https://github.com/MilanBornarov/Book-Scraping-Visualization)**  
-  Python project for scraping and analyzing data with Pandas & Matplotlib
+- 🎮 **[MegaSudoku (18x18 Challenge Edition)](https://github.com/MilanBornarov/MegaSudoku-18x18-Challenge-Edition)**  
+  Python/Pygame Sudoku with backtracking algorithm, larger grid logic, and custom gameplay challenges
 
 ---
 
