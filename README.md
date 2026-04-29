@@ -28,8 +28,8 @@
 - 🎨 **[BornaArtGallery](https://github.com/MilanBornarov/BornaArtGallery)**  
   Full-stack art gallery with admin management, Cloudinary integration, and secure API
 
-- 💸 **[Finance Tracker (.NET MVC)](https://github.com/MilanBornarov/Finance-Tracker-App-DotNet)**  
-  C# ASP.NET MVC app for tracking transactions, categories, and financial data
+- 💸 **[Financial Dashboard System (.NET MVC)](https://github.com/MilanBornarov/Finance-Tracker-App-DotNet)**  
+  Full-stack financial dashboard built with C# and ASP.NET MVC for tracking transactions, categories, and financial data
 
 - 🍔 **[Food Delivery App](https://github.com/MilanBornarov/Food-Delivery-App-SpringBoot)**  
   Spring Boot + React platform with REST APIs and order management
