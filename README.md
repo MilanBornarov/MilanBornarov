@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://milanbornarov.github.io">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/milan-bornarov-758371305/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/milan-bornarov-758371305/">LinkedIn</a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Spring+Boot+%2B+.NET+MVC;React+%2B+TypeScript;Clean+Architecture+%2B+Secure+APIs" />
